@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "247508158097",
+    "firebase_url": "https://quickbuy-assign-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quickbuy-assign",
+    "storage_bucket": "quickbuy-assign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247508158097:android:963ceefcfa72d8e3f2e130",
+        "android_client_info": {
+          "package_name": "com.assignment.quickbuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVBhhEqbkRDAulY6C3dGEcMvwuiJBkZKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
